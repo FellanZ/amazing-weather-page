@@ -71,6 +71,7 @@ main {
 
 .weather-app-temperature-container {
   display: flex;
+  margin-top: 12px;
 }
 
 .weather-app-icon {

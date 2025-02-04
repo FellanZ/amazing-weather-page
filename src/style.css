@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(215, 226, 250);
+  background-color: rgb(225, 234, 252);
   font-family: "Overpass", serif;
 }
 
 a {
-  color: rgb(186, 205, 246);
+  color: rgb(137, 166, 227);
 }
 
 .weather-app {
@@ -22,7 +22,7 @@ header {
 }
 
 .search-form-input {
-  background-color: rgb(215, 226, 250);
+  background-color: rgb(225, 234, 252);
   border: none;
   border-radius: 5px;
   width: 80%;
@@ -41,7 +41,7 @@ header {
 }
 
 main {
-  padding: 30px 0;
+  padding: 30px 0 40px;
 }
 
 .weather-app-data {
@@ -53,7 +53,7 @@ main {
   margin: 15px 0 25px 0;
   font-weight: 700;
   font-family: "Rubik Mono One", serif;
-  font-size: 45px;
+  font-size: 40px;
 }
 
 .weather-app-details {
@@ -79,13 +79,12 @@ main {
 }
 .weather-app-temperature {
   font-size: 85px;
-  margin-left: 3px;
-  line-height: 97px;
+  line-height: 92px;
   font-weight: bold;
 }
 
 .weather-app-unit {
-  margin-top: 7px;
+  margin-top: 5px;
   font-size: 22px;
 }
 
